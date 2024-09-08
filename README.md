@@ -1,6 +1,8 @@
-# Statistics-for-DS
+![image](https://github.com/user-attachments/assets/1483c2ec-19e9-40c5-85c5-f09932815fd6)
 
-List of topics to study
+# Statistics for Data Science
+
+This repo contains a list of essential statistics topics to study for data science and machine learning.
 
 ## 1. Descriptive Statistics
 

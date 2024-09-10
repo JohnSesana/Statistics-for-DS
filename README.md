@@ -50,7 +50,7 @@ This repo contains a list of essential statistics topics to study for data scien
 ## 7. Time Series Analysis
 
 - **Stationarity**: Understanding trends, seasonality, and how to make data stationary
-- \*\*Autocorrelation and Partial Autocorrelation
+- **Autocorrelation and Partial Autocorrelation**
 - **ARIMA Models**: Autoregressive Integrated Moving Average
 - **Exponential Smoothing**: Simple, Holt’s, and Holt-Winters models
 

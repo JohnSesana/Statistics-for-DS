@@ -4,7 +4,7 @@
 
 This repo contains a list of essential statistics topics to study for data science and machine learning.
 
-## 1. Descriptive Statistics
+## 1. [Descriptive Statistics](https://github.com/JohnSesana/Statistics-for-DS/blob/main/01-Descriptive-Statistics.ipynb)
 
 - **Measures of Central Tendency**: Mean, Median, Mode
 - **Measures of Dispersion**: Variance, Standard Deviation, Range,Interquartile Range (IQR)

@@ -3,7 +3,7 @@
 # Statistics for Data Science
 
 This repo contains a list of essential statistics topics to study for data science and machine learning.
-- Every topic contains a jupyter notebook with explanations and code examples.
+- Every topic contains a jupyter notebook with explanations and code examples. (Work in Progress)
 
 ## 1. [Descriptive Statistics](https://github.com/JohnSesana/Statistics-for-DS/blob/main/01-Descriptive-Statistics.ipynb)
 

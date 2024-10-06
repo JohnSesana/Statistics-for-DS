@@ -12,7 +12,7 @@ This repo contains a list of essential statistics topics to study for data scien
 - **Skewness and Kurtosis**: Understanding the shape of data distributions
 - **Percentiles and Quartiles**: Breaking data into sections
 
-## 2. Probability Theory 
+## 2. [Probability Theory](https://github.com/JohnSesana/Statistics-for-DS/blob/main/02-Probability-Theory.ipynb)
 
 - **Probability Distributions**: Uniform, Normal (Gaussian), Binomial, Poisson, Exponential, etc.
 - **Conditional Probability**: Bayes’ Theorem, Independence, and Conditional Independence

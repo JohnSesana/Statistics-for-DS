@@ -19,7 +19,7 @@ This repo contains a list of essential statistics topics to study for data scien
 - **Law of Large Numbers and Central Limit Theorem (CLT)**
 - **Combinatorics**: Permutations and Combinations
 
-## 3. Statistical Inference
+## 3. [Statistical Inference](https://github.com/JohnSesana/Statistics-for-DS/blob/main/03-Statistical-Inference.ipynb)
 
 - **Hypothesis Testing**: Null and Alternative Hypotheses, p-value, Significance Levels (α)
 - **Confidence Intervals**: Estimating population parameters

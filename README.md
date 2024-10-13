@@ -27,7 +27,7 @@ This repo contains a list of essential statistics topics to study for data scien
 - **Type I and Type II Errors**: False positives and false negatives
 - **Power of a Test**: Understanding how likely a test is to detect an effect
 
-## 4. Regression Analysis
+## 4. [Regression Analysis](https://github.com/JohnSesana/Statistics-for-DS/blob/main/04-Regression-Analysis.ipynb)
 
 - **Linear Regression**: Simple and Multiple Regression, Assumptions, Interpretation of Coefficients
 - **Logistic Regression**: Binary classification, Log-Odds, Interpretation
